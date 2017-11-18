@@ -4,6 +4,6 @@ Nothing less, nothing more than an epic `git reset --hard && git clean -df` with
 
 ## Release Notes
 
-### 0.0.1
+### 0.0.2
 
 Epic first version!

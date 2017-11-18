@@ -2,7 +2,7 @@
     "name": "barbecueee",
     "displayName": "barbecueee",
     "description": "Does an incredibly epic git reset --hard",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "ricardocino",
     "engines": {
         "vscode": "^1.18.0"
